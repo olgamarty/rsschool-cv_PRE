@@ -1,5 +1,7 @@
 # Olga Martynova
 
+![Portrait of Olga Martynova](img/my_avatar_small.jpeg)
+
 ### Junior Frontend Developer
 
 ---
